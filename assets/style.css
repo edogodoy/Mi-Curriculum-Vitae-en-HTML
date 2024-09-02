@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .box2 {
-    background-color: #2ECC71;
+    background-color: #6fa59a;
     color: #FDFEFE;
 }
 
@@ -88,10 +88,15 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url('./apple-1841553_1920.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .portafolio p {
     font-size: 2rem;
 }
+
 
 
 /********************************************* PRESENTACION */
